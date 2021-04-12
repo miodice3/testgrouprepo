@@ -1,3 +1,4 @@
-let member1 = "test"
+let member1 = "computer"
+
 
 console.log(member1)

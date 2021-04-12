@@ -1,3 +1,3 @@
-let member1 = "computer"
+let member1 = "mike iodice"
 let member2 = "Mike Rakitzis"
 console.log(member1)
